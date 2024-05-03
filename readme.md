@@ -1,0 +1,1 @@
+This is a simple Java project that prints out hello world
